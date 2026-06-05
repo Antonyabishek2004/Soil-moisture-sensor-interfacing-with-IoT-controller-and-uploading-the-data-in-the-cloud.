@@ -1,9 +1,13 @@
-# Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud.
+# SOIL-MOISTURE-SENSOR-INTERFACING-WITH-IoT-CONTROLER-AND-UPLOADING-THE-DATA-IN-THE-CLOUD.
 
-# AIM:
+## NAME : ANTONY ABISHEK K
+
+## REGISTER NUMBER : 212223240009
+
+# AIM :
 To upload the Soil-moisture sensor value in the Things mate using Arduino controller.
 
-# Apparatus required:
+# Apparatus required :
 Arduino Controller  </br>
 Indoor gateway</br>
 LoRaWAN shield </br>
